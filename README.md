@@ -17,3 +17,7 @@ After cloning this repository, simply run `poetry install` to install the virtua
 **Optional**
 
 Alternatively, you can simply use good ol' `pip install -r requirements.txt`.
+
+## Acknowledgements
+
+The data is provided by [`pyCOVID`](https://github.com/sudharshan-ashok/pycovid). Please refer to its documentation for more instructions on how to access the underlying data.
