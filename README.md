@@ -1,6 +1,7 @@
 # Explore Covid-19
 
-Just a barebones project template to explore Covid-19 data with Jupyter notebooks.
+Just a barebones project template to explore Covid-19 data with Jupyter notebooks. **Please be responsible about the dissemation and sharing of your own models and visualisations if you're not an expert in the field**!
+
 
 ## Getting started
 
